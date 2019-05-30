@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Wine Simulator</title>
+	
 </head>
 <body>
 <h1>How to play</h1>
