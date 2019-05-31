@@ -25,8 +25,12 @@
  Once you do this you will have gotten a cellar and your kegs reset to one.<br>
  A cellar is 8 kegs put together. Which means it will take 8 berries but you will<br>
  only have to wait 110 seconds to make 8 wine.</p>
- <h1>If you have any suggestions for 3.0 than comment them on the original project.</h1>
- 
+<h2>Truffles</h2>
+<p>Once you go in to the merchants shop you should see a pig icon.<br>
+Buying that will costs 245 and you will get a pig. The pig will find<br>
+truffles when "TRUFFLE HUNTING SEASON" is yes. Move your mouse over them<br>
+to get a truffle. Pressing 3 will sell it.</p>
+
 
 
 </body>
