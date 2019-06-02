@@ -18,7 +18,7 @@
  The wine can then be sold by pressing one.</p>
  <h2>Joja Cola</h2>
  <p>(Stolen from stardew valley) A soda machine can be bought again at the mechant.<br>
- Once you have a wine you can click the machine and wait 100 to make a joja cola.<br>
+ Once you have a wine you can click the machine and wait 100 seconds to make a joja cola.<br>
  You can sell it by pressing 2.</p>
  <h2>Cellars</h2>
  <p>Once you have gotten all 8 kegs you can click the cellar button.<br>
@@ -30,8 +30,12 @@
 Buying that will costs 245 and you will get a pig. The pig will find<br>
 truffles when "TRUFFLE HUNTING SEASON" is yes. Move your mouse over them<br>
 to get a truffle. Pressing 3 will sell it.</p>
-
-
+<h2>Magical fruit</h2>
+<p>For 200 berries you can get a magical fruit. Putting that into<br>
+	use great grandpa's keg to make magical wine. Pressing 4 will sell it for #3000.</p>
+	<h2>The Stock Market</h2>
+<p>The stock market can be unlocked when you get $10,000.<br>
+	Mr.Mawson should explain the rest.</p>	
 
 </body>
 </html>
