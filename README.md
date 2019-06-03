@@ -44,5 +44,12 @@ to get a truffle. Pressing 3 will sell it.</p>
 <p>A game about living as a cobbler. I will not tell you the ending. Try to get it yourself all you have to do is click</p>
 	<h3>Days without devin 2</h3>
 	<p>Try to find devin 1000 times. The rest is laid out for you</p>
+	<h2>Microsoft edge</h2>
+	<h3>Google docs</h3>
+	<p>Press WASD and IJKL to type words</p>
+	<h3>National Hoodgraphic</h3>
+<p>It's the hood version of monuments FOR KIDS!</p>
+	<h3>Audibley<h3>
+		<p>Click a book to listen to the audio book</p>
 </body>
 </html>
