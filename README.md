@@ -49,7 +49,7 @@ to get a truffle. Pressing 3 will sell it.</p>
 	<p>Press WASD and IJKL to type words</p>
 	<h3>National Hoodgraphic</h3>
 	<p>It's the hood version of monuments FOR KIDS!</p>
-	<h3>Audibley<h3>
+	<h3>Audibley</h3>
 	<p>Click a book to listen to the audio book</p>
 </body>
 </html>
