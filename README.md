@@ -36,6 +36,13 @@ to get a truffle. Pressing 3 will sell it.</p>
 	<h2>The Stock Market</h2>
 <p>The stock market can be unlocked when you get $10,000.<br>
 	Mr.Mawson should explain the rest.</p>	
-
+	<h2>Computer</h2>
+<p>A computer costs 500 and can be bought at the merchant's market. After you buy a computer you can go on a web browser or<br>Buy a game from the merchant for 100. There are 3 games you can buy so far</p>
+	<h3>"Biggie Cheese hero clicker"</h3>
+	<p>A clicker game where everytime you defeat biggie cheese he gets stronger.</p>
+	<h3>The Cobbler</h3>
+<p>A game about living as a cobbler. I will not tell you the ending. Try to get it yourself all you have to do is click</p>
+	<h3>Days without devin 2</h3>
+	<p>Try to find devin 1000 times. The rest is laid out for you</p>
 </body>
 </html>
